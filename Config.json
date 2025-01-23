@@ -1,0 +1,10 @@
+{
+	"identifier": "top.hiuxiadev.anki",
+	"name": "Anki",
+	"popclipVersion": 4151,
+	"icon": "anki.png",
+	"shellScriptFile": "anki.zsh",
+	"interpreter": "zsh",
+	"stdin": "text",
+	"description": "Add selected text to Anki."
+}

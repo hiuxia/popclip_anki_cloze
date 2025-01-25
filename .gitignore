@@ -1,3 +1,5 @@
 *.popclipext
 *.txt
 *.sh
+.DS_Store
+LICENSE

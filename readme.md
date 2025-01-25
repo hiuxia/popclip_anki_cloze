@@ -1,0 +1,1 @@
+A popclip plugin for clozing text anywhere.
